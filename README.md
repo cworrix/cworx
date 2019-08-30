@@ -5776,4 +5776,4 @@ PLAYER,USF,LB,Jeffery Farrar,Sr,71,235,4,,
 PLAYER,USF,OL,Donovan Jennings,Fr,73,295,3,,
 PLAYER,USF,K,Jake Vivonetto,Sr,67,180,4,,
 
-END_FILE,,,,,,,,,
+END_FILE,,,,,,,,
