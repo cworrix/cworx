@@ -97,7 +97,7 @@ TEAM,AAC,East,Temple,TEM,70,TLSA,,,
 TEAM,AAC,East,East Carolina,ECU,65,TULN,,,
 TEAM,AAC,East,Army,ARMY,75,NAVY,,,
 # Coaches,,,,,,,,,
-# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
+# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,,,,
 COACH,ALA,Nick Saban,40,95,95,95,95,Balanced,Balanced,,,,,,,
 COACH,ARIZ,Kevin Sumlin,40,75,75,75,75,Pro Style,Conservative,,,,,,,
 COACH,ASU,Herm Edwards,40,65,65,65,65,Spread,Conservative,,,,,,,
