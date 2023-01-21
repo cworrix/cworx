@@ -1,372 +1,186 @@
 Cody's Balanced FC2 Universe,,,,,,,,,,
-
 SEC,East,West,,,,,,,,
-
 ACC,Atlantic,Coastal,,,,,,,,
-
 Big Ten,East,West,,,,,,,,
-
 Big 12,Sheriff,Outlaw,,,,,,,,
-
 Pac 12,North,South,,,,,,,,
-
 AAC,East,West,,,,,,,,
-
 # Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,
-
 # SEC,,,,,,,,,,
-
 TEAM,SEC,West,Alabama,ALA,92,AUB,,,,
-
 TEAM,SEC,West,Texas A&M,TAMU,82,MIZ,,,,
-
 TEAM,SEC,West,LSU,LSU,87,ARK,,,,
-
 TEAM,SEC,West,Florida,UF,82,UGA,,,,
-
 TEAM,SEC,West,Tennessee,TENN,85,VAN,,,,
-
 TEAM,SEC,West,Kentucky,UK,79,SCAR,,,,
-
 TEAM,SEC,West,Mississippi St,MSST,77,MISS,,,,
-
 TEAM,SEC,East,Arkansas,ARK,80,LSU,,,,
-
 TEAM,SEC,East,Ole Miss,MISS,85,MSST,,,,
-
 TEAM,SEC,East,Georgia,UGA,93,UF,,,,
-
 TEAM,SEC,East,South Carolina,SCAR,78,UK,,,,
-
 TEAM,SEC,East,Missouri,MIZ,75,TAMU,,,,
-
 TEAM,SEC,East,Vanderbilt,VAN,69,TENN,,,,
-
 TEAM,SEC,East,Auburn,AUB,79,ALA,,,,
-
 # ACC,,,,,,,,,,
-
 TEAM,ACC,Atlantic,Clemson,CLEM,88,GT,,,,
-
 TEAM,ACC,Atlantic,Florida St,FSU,84,UM,,,,
-
 TEAM,ACC,Atlantic,Louisville,LOU,76,PITT,,,,
-
 TEAM,ACC,Atlantic,NC State,NCST,81,UNC,,,,
-
 TEAM,ACC,Atlantic,Virginia Tech,VT,74,UVA,,,,
-
 TEAM,ACC,Atlantic,Wake Forest,WF,82,DUKE,,,,
-
 TEAM,ACC,Atlantic,Syracuse,SYR,74,BC,,,,
-
 TEAM,ACC,Coastal,Boston College,BC,72,SYR,,,,
-
 TEAM,ACC,Coastal,Miami,UM,83,FSU,,,,
-
 TEAM,ACC,Coastal,UNC,UNC,81,NCST,,,,
-
 TEAM,ACC,Coastal,Pittsburgh,PITT,79,LOU,,,,
-
 TEAM,ACC,Coastal,Georgia Tech,GT,72,CLEM,,,,
-
-TEAM,ACC,Coastal,Duke,DUKE,69,WF,,,,
-
+TEAM,ACC,Coastal,Duke,DUKE,71,WF,,,,
 TEAM,ACC,Coastal,Virginia,UVA,74,VT,,,,
-
 # B10,,,,,,,,,,
-
 TEAM,Big Ten,West,Wisconsin,WIS,84,MINN,,,,
-
 TEAM,Big Ten,West,Nebraska,NEB,79,IOWA,,,,
-
 TEAM,Big Ten,West,Rutgers,RUT,74,MD,,,,
-
 TEAM,Big Ten,West,Northwestern,NW,73,ILL,,,,
-
 TEAM,Big Ten,West,Purdue,PUR,81,IND,,,,
-
 TEAM,Big Ten,West,Michigan,MICH,88,OSU,,,,
-
 TEAM,Big Ten,West,Michigan St,MSU,83,PSU,,,,
-
 TEAM,Big Ten,East,Minnesota,MINN,78,WIS,,,,
-
-TEAM,Big Ten,East,Illinois,ILL,75,NW,,,,
-
+TEAM,Big Ten,East,Illinois,ILL,81,NW,,,,
 TEAM,Big Ten,East,Ohio State,OSU,90,MICH,,,,
-
 TEAM,Big Ten,East,Penn State,PSU,86,MSU,,,,
-
 TEAM,Big Ten,East,Maryland,MD,78,RUT,,,,
-
 TEAM,Big Ten,East,Indiana,IND,74,PUR,,,,
-
 TEAM,Big Ten,East,Iowa,IOWA,82,NEB,,,,
-
 # Big 12,,,,,,,,,,
-
 TEAM,Big 12,Sheriff,Texas,TEX,83,OKL,,,,
-
 TEAM,Big 12,Sheriff,Iowa State,ISU,74,WV,,,,
-
 TEAM,Big 12,Sheriff,TCU,TCU,87,TTU,,,,
-
 TEAM,Big 12,Sheriff,Boise State,BSU,75,FRSN,,,,
-
 TEAM,Big 12,Sheriff,Colorado St,CSU,65,WYO,,,,
-
 TEAM,Big 12,Sheriff,Baylor,BAY,80,OKST,,,,
-
 TEAM,Big 12,Sheriff,Kansas St,KSU,82,KU,,,,
-
 TEAM,Big 12,Outlaw,Texas Tech,TTU,78,TCU,,,,
-
 TEAM,Big 12,Outlaw,West Virginia,WVU,74,ISU,,,,
-
 TEAM,Big 12,Outlaw,Oklahoma,OKL,86,TEX,,,,
-
 TEAM,Big 12,Outlaw,Oklahoma St,OKST,82,BAY,,,,
-
 TEAM,Big 12,Outlaw,Wyoming,WYO,68,CSU,,,,
-
 TEAM,Big 12,Outlaw,Fresno State,FRSN,72,BSU,,,,
-
 TEAM,Big 12,Outlaw,Kansas,KU,74,KSU,,,,
-
 # Pac 12,,,,,,,,,,
-
 TEAM,Pac 12,North,Oregon,ORE,86,ORST,,,,
-
 TEAM,Pac 12,North,Colorado,COLO,70,BYU,,,,
-
 TEAM,Pac 12,North,Arizona St,ASU,73,ARIZ,,,,
-
 TEAM,Pac 12,North,Notre Dame,ND,86,USC,,,,
-
 TEAM,Pac 12,North,Washington,WASH,80,WSU,,,,
-
 TEAM,Pac 12,North,Stanford,STAN,73,UCLA,,,,
-
 TEAM,Pac 12,North,California,CAL,74,UTAH,,,,
-
 TEAM,Pac 12,South,Washington St,WSU,75,WASH,,,,
-
-TEAM,Pac 12,South,Oregon St,ORST,74,ORE,,,,
-
+TEAM,Pac 12,South,Oregon St,ORST,78,ORE,,,,
 TEAM,Pac 12,South,USC,USC,87,ND,,,,
-
 TEAM,Pac 12,South,UCLA,UCLA,82,STAN,,,,
-
 TEAM,Pac 12,South,Utah,UTAH,87,CAL,,,,
-
 TEAM,Pac 12,South,BYU,BYU,80,COLO,,,,
-
-TEAM,Pac 12,South,Arizona,ARIZ,70,ASU,,,,
-
+TEAM,Pac 12,South,Arizona,ARIZ,75,ASU,,,,
 # AAC,,,,,,,,,,
-
 TEAM,AAC,West,Houston,HOU,80,SMU,,,,
-
 TEAM,AAC,West,Memphis,MEM,78,CIN,,,,
-
 TEAM,AAC,West,App State,APP,76,TROY,,,,
-
 TEAM,AAC,West,Navy,NAVY,72,ARMY,,,,
-
 TEAM,AAC,West,Tulane,TULN,79,ECU,,,,
-
 TEAM,AAC,West,Tulsa,TLSA,72,TEM,,,,
-
 TEAM,AAC,East,UCF,UCF,81,USF,,,,
-
 TEAM,AAC,East,Cincinnati,CIN,84,MEM,,,,
-
 TEAM,AAC,East,South Florida,USF,72,UCF,,,,
-
 TEAM,AAC,East,Troy,TROY,70,APP,,,,
-
 TEAM,AAC,East,Temple,TEM,70,TLSA,,,,
-
 TEAM,AAC,East,East Carolina,ECU,74,TULN,,,,
-
 TEAM,AAC,East,Army,ARMY,73,NAVY,,,,
-
 TEAM,AAC,East,SMU,SMU,79,HOU,,,,
-
 # Coaches,,,,,,,,,,
-
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,
-
 COACH,ALA,Nick Saban,70,90,90,95,95,Balanced,Balanced,
-
 COACH,ARIZ,Jedd Fisch,46,85,70,80,75,Pro Style,Cover 2,
-
 COACH,ASU,Kenny Dillingham,32,85,70,80,80,Spread,Balanced,
-
 COACH,ARK,Sam Pittman,60,85,75,85,80,Pro Style,Aggressive,
-
 COACH,ARMY,Jeff Monken,55,65,75,70,75,Smashmouth,4-6 Bear,
-
 COACH,AUB,Hugh Freeze,53,90,70,90,80,Pro Style,Conservative,
-
 COACH,BAY,Dave Aranda,45,70,85,80,85,Pro Style,Aggressive,
-
 COACH,BSU,Andy Avalos,41,70,85,80,85,Balanced,Aggressive,
-
-COACH,BC,Jeff Hafley,43,65,85,70,80,Balanced,Aggressive,
-
+COACH,BC,Jeff Hafley,43,65,80,70,80,Balanced,Aggressive,
 COACH,BYU,Kalani Sitake,46,85,75,75,80,Pro Style,Conservative,
-
 COACH,CAL,Justin Wilcox,46,70,75,70,75,Pro Style,Conservative,
-
 COACH,UCF,Gus Malzahn,57,85,75,80,75,Balanced,Balanced,
-
 COACH,CIN,Scott Satterfield,50,85,75,75,75,Pro Style,Aggressive,
-
 COACH,CLEM,Dabo Swinney,53,90,85,80,90,Pro Style,Conservative,
-
 COACH,COLO,Deion Sanders,55,85,75,90,80,Pro Style,Balanced,
-
 COACH,CSU,Jay Norvell,59,75,65,65,65,Pro Style,Conservative,
-
 COACH,DUKE,Mike Elko,45,75,85,75,85,Balanced,Conservative,
-
 COACH,ECU,Mike Houston,51,80,65,65,75,Balanced,Aggressive,
-
-COACH,UF,Billy Napier,43,85,75,80,80,Balanced,Balanced,
-
+COACH,UF,Billy Napier,43,80,75,80,80,Balanced,Balanced,
 COACH,FRSN,Jeff Tedford,61,85,80,75,80,Balanced,Aggressive,
-
 COACH,FSU,Mike Norvell,41,90,80,85,85,Pro Style,Conservative,
-
 COACH,UGA,Kirby Smart,47,85,90,95,90,Balanced,Aggressive,
-
 COACH,GT,Brent Key,44,70,70,65,65,Smashmouth,Balanced,
-
 COACH,HOU,Dana Holgorsen,51,85,70,70,80,Spread,Conservative,
-
 COACH,ILL,Brett Bielema,51,75,90,70,80,Smashmouth,Aggressive,
-
 COACH,IND,Tom Allen,52,70,65,70,75,Spread,Conservative,
-
 COACH,IOWA,Kirk Ferentz,67,75,90,80,85,Balanced,Conservative,
-
 COACH,ISU,Matt Campbell,43,80,80,75,85,Pro Style,Conservative,
-
 COACH,KU,Lance Leipold,58,85,75,75,85,Pro Style,Balanced,
-
 COACH,KSU,Chris Klieman,55,85,80,80,80,Pro Style,Conservative,
-
 COACH,UK,Mark Stoops,40,75,80,75,80,Pro Style,Conservative,
-
 COACH,LOU,Jeff Brohm,51,85,70,80,75,Spread,Conservative,
-
 COACH,LSU,Brian Kelly,61,90,85,85,85,Balanced,Conservative,
-
 COACH,MD,Mike Locksley,53,80,80,75,75,Spread,Conservative,
-
 COACH,MEM,Ryan Silverfield,42,80,70,70,75,Pro Style,Conservative,
-
 COACH,UM,Mario Cristobal,52,80,85,90,85,Pro Style,Conservative,
-
 COACH,MICH,Jim Harbaugh,59,80,90,80,85,Pro Style,Aggressive,
-
 COACH,MSU,Mel Tucker,50,75,80,80,85,Balanced,Aggressive,
-
 COACH,MINN,PJ Fleck,42,80,80,75,85,Pro Style,Conservative,
-
 COACH,MISS,Lane Kiffin,47,85,75,90,85,Balanced,Conservative,
-
 COACH,MSST,Mike Leach,62,85,80,80,80,Air Raid,Aggressive,
-
 COACH,MIZ,Eliah Drinkwitz,39,75,70,70,75,Pro Style,Aggressive,
-
 COACH,NAVY,Brian Newberry,48,70,80,70,70,Smashmouth,Conservative,
-
 COACH,NEB,Matt Rhule,47,85,70,80,85,Balanced,Balanced,
-
 COACH,UNC,Mack Brown,71,85,80,80,85,Balanced,Balanced,
-
 COACH,NCST,Dave Doeren,51,75,85,75,80,Pro Style,Conservative,
-
 COACH,NW,Pat Fitzgerald,48,70,85,70,85,Pro Style,Conservative,
-
 COACH,ND,Marcus Freeman,36,75,85,85,85,Balanced,Conservative,
-
 COACH,OSU,Ryan Day,43,90,75,90,90,Spread,Aggressive,
-
 COACH,OKL,Brent Venables,52,75,80,85,85,Spread,Conservative,
-
 COACH,OKST,Mike Gundy,55,85,80,75,85,Pro Style,Conservative,
-
 COACH,ORE,Dan Lanning,36,75,85,85,80,Pro Style,Conservative,
-
 COACH,ORST,Jonathan Smith,43,80,70,75,85,Pro Style,Conservative,
-
 COACH,PITT,Pat Narduzzi,56,80,70,70,85,Spread,Conservative,
-
 COACH,PSU,James Franklin,50,85,80,85,85,Pro Style,Aggressive,
-
 COACH,PUR,Ryan Walters,36,70,85,75,75,Pro Style,Conservative,
-
 COACH,RUT,Greg Schiano,56,70,80,70,85,Pro Style,Conservative,
-
 COACH,SCAR,Shane Beamer,45,80,75,80,85,Spread,Balanced,
-
 COACH,USF,Alex Golesh,38,80,70,70,70,Spread,Balanced,
-
 COACH,STAN,Troy Taylor,54,80,75,70,70,Balanced,Balanced,
-
 COACH,SYR,Dino Babers,61,80,85,75,85,Pro Style,Conservative,
-
 COACH,TCU,Sonny Dykes,53,85,75,80,85,Spread,Aggressive,
-
 COACH,TEM,Stan Drayton,51,75,65,70,75,Pro Style,Conservative,
-
 COACH,TEN,Josh Heupel,44,90,65,85,80,Spread,Aggressive,
-
 COACH,TEX,Steve Sarkisian,48,85,70,85,80,Pro Style,Conservative,
-
 COACH,TAMU,Jimbo Fisher,57,70,80,95,90,Spread,Conservative,
-
 COACH,TTU,Joey McGuire,51,85,70,65,65,Spread,Balanced,
-
 COACH,TROY,Jon Sumrall,40,75,85,75,85,Pro Style,Aggressive,
-
 COACH,TULN,Willie Fritz,62,80,85,80,85,Pro Style,Conservative,
-
 COACH,TLSA,Kevin Wilson,61,85,75,80,85,Spread,Balanced,
-
 COACH,UCLA,Chip Kelly,59,90,80,80,85,Spread,Conservative,
-
 COACH,USC,Lincoln Riley,39,90,70,85,85,Spread,Aggressive,
-
 COACH,UTAH,Kyle Whittingham,63,85,85,85,90,Pro Style,Conservative,
-
 COACH,VAN,Clark Lea,41,70,75,75,75,Pro Style,Conservative,
-
 COACH,UVA,Tony Elliot,43,75,70,70,80,Balanced,Conservative,
-
 COACH,VT,Brent Pry,52,65,80,75,80,Balanced,Conservative,
-
 COACH,WF,Dave Clawson,55,85,65,75,85,Pro Style,Balanced,
-
 COACH,WASH,Kalen DeBoer,48,90,75,85,85,Spread,Balanced,
-
 COACH,WSU,Jake Dickert,39,70,75,85,85,Spread,Aggressive,
-
 COACH,WVU,Neal Brown,42,80,65,70,75,Balanced,Balanced,
-
 COACH,WIS,Luke Fickell,49,75,85,80,85,Pro Style,Conservative,
-
 COACH,WYO,Craig Bohl,64,70,85,70,70,Pro Style,Conservative,
-
 # Coordinators,,,,,,,,,,
-
 # Coordinator format:,Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,
-
 OC,OSU,Brian Hartline,36,85,WR,Medium Pass,,,
-
 DC,OSU,Jim Knowels,57,90,LB,Inside Run,,,
-
