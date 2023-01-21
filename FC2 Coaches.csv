@@ -110,7 +110,7 @@ TEAM,Big 12,Sheriff,Texas,TEX,83,OKL,,,,
 
 TEAM,Big 12,Sheriff,Iowa State,ISU,74,WV,,,,
 
-TEAM,Big 12,Sheriff,TCU,TCU,86,TTU,,,,
+TEAM,Big 12,Sheriff,TCU,TCU,87,TTU,,,,
 
 TEAM,Big 12,Sheriff,Boise State,BSU,75,FRSN,,,,
 
@@ -136,17 +136,17 @@ TEAM,Big 12,Outlaw,Kansas,KU,74,KSU,,,,
 
 # Pac 12,,,,,,,,,,
 
-TEAM,Pac 12,North,Oregon,ORE,85,ORST,,,,
+TEAM,Pac 12,North,Oregon,ORE,86,ORST,,,,
 
-TEAM,Pac 12,North,Colorado,COLO,66,BYU,,,,
+TEAM,Pac 12,North,Colorado,COLO,70,BYU,,,,
 
-TEAM,Pac 12,North,Arizona St,ASU,75,ARIZ,,,,
+TEAM,Pac 12,North,Arizona St,ASU,73,ARIZ,,,,
 
-TEAM,Pac 12,North,Notre Dame,ND,85,USC,,,,
+TEAM,Pac 12,North,Notre Dame,ND,86,USC,,,,
 
 TEAM,Pac 12,North,Washington,WASH,80,WSU,,,,
 
-TEAM,Pac 12,North,Stanford,STAN,75,UCLA,,,,
+TEAM,Pac 12,North,Stanford,STAN,73,UCLA,,,,
 
 TEAM,Pac 12,North,California,CAL,74,UTAH,,,,
 
@@ -154,7 +154,7 @@ TEAM,Pac 12,South,Washington St,WSU,75,WASH,,,,
 
 TEAM,Pac 12,South,Oregon St,ORST,74,ORE,,,,
 
-TEAM,Pac 12,South,USC,USC,84,ND,,,,
+TEAM,Pac 12,South,USC,USC,87,ND,,,,
 
 TEAM,Pac 12,South,UCLA,UCLA,82,STAN,,,,
 
@@ -174,7 +174,7 @@ TEAM,AAC,West,App State,APP,76,TROY,,,,
 
 TEAM,AAC,West,Navy,NAVY,72,ARMY,,,,
 
-TEAM,AAC,West,Tulane,TULN,78,ECU,,,,
+TEAM,AAC,West,Tulane,TULN,79,ECU,,,,
 
 TEAM,AAC,West,Tulsa,TLSA,72,TEM,,,,
 
@@ -182,7 +182,7 @@ TEAM,AAC,East,UCF,UCF,81,USF,,,,
 
 TEAM,AAC,East,Cincinnati,CIN,84,MEM,,,,
 
-TEAM,AAC,East,South Florida,USF,75,UCF,,,,
+TEAM,AAC,East,South Florida,USF,72,UCF,,,,
 
 TEAM,AAC,East,Troy,TROY,70,APP,,,,
 
